@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "team_name": "RR",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/turpQqyPRIMvuksLiSDSjQ_48x48.png",
+    "m": 4,
+    "w": 3,
+    "l": 1,
+    "nrr": "+0.951",
+    "pts": 6,
+    "last_five": {
+      "five": "true",
+      "four": "false",
+      "three": "true",
+      "two": "true",
+      "one": "false"
+    }
+  },
+  {
+    "id": 2,
+    "team_name": "KKR",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/kkwGQB9t8WtGPx9WuiBGOw_48x48.png",
+    "m": 5,
+    "w": 3,
+    "l": 2,
+    "nrr": "+0.446",
+    "pts": 6,
+    "last_five": {
+      "five": "false",
+      "four": "true",
+      "three": "true",
+      "two": "false",
+      "one": "true"
+    }
+  },
+  {
+    "id": 3,
+    "team_name": "RCB",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/f958HPOsI1ugsHmwc4piCw_48x48.png",
+    "m": 4,
+    "w": 3,
+    "l": 1,
+    "nrr": "+0.294",
+    "pts": 6,
+    "last_five": {
+        "five" : "false",
+        "four" : "true",
+        "three" : "true",
+        "two" : "true",
+        "one" : "true"
+    }
+  },
+  {
+    "id": 4,
+    "team_name": "LSG",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/b6uyRF-RX56muhQOv1-Z3A_48x48.png",
+    "m": 5,
+    "w": 3,
+    "l": 2,
+    "nrr": "+0.174",
+    "pts": 6,
+    "last_five": {
+        "five" : "false",
+        "four" : "true",
+        "three" : "true",
+        "two" : "true",
+        "one" : "false"
+    }
+  },
+  {
+    "id": 5,
+    "team_name": "GT",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/24uPDj4LAP1wpSEGHZWRDQ_48x48.png",
+    "m": 4,
+    "w": 3,
+    "l": 1,
+    "nrr": "+0.097",
+    "pts": 6,
+    "last_five": {
+        "five" : "false",
+        "four" : "true",
+        "three" : "true",
+        "two" : "true",
+        "one" : "true"
+    }
+  },
+  {
+    "id": 6,
+    "team_name": "DC",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/TjudW-BaNE2HcD_6cOWC7Q_48x48.png",
+    "m": 4,
+    "w": 2,
+    "l": 2,
+    "nrr": "+0.476",
+    "pts": 4,
+    "last_five": {
+        "five" : "false",
+        "four" : "false",
+        "three" : "true",
+        "two" : "true",
+        "one" : "true"
+    }
+  },
+  {
+    "id": 7,
+    "team_name": "PBKS",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/24uPDj4LAP1wpSEGHZWRDQ_48x48.png",
+    "m": 4,
+    "w": 2,
+    "l": 2,
+    "nrr": "+0.152",
+    "pts": 4,
+    "last_five": {
+        "five" : "true",
+        "four" : "false",
+        "three" : "true",
+        "two" : "false",
+        "one" : "false"
+    }
+  },
+  {
+    "id": 8,
+    "team_name": "SRH",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/G9q07ZXPVbPkXOagStz3Yw_48x48.png",
+    "m": 4,
+    "w": 2,
+    "l": 2,
+    "nrr": "-0.501",
+    "pts": 4,
+    "last_five": {
+        "five" : "true",
+        "four" : "true",
+        "three" : "false",
+        "two" : "false",
+        "one" : "false"
+    }
+  },
+  {
+    "id": 9,
+    "team_name": "MI",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/JTre94vh6WJeLmIL-Dfc1g_48x48.png",
+    "m": 4,
+    "w": 0,
+    "l": 4,
+    "nrr": -1.181,
+    "pts": 0,
+    "last_five": {
+        "five" : "false",
+        "four" : "false",
+        "three" : "false",
+        "two" : "false",
+        "one" : "false"
+    }
+  },
+  {
+    "id": 10,
+    "team_name": "CSK",
+    "team_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/exZiFUT_GXScTyr358t7SQ_48x48.png",
+    "m": 4,
+    "w": 0,
+    "l": 0,
+    "nrr": "-1.181",
+    "pts": 0,
+    "last_five": {
+        "five" : "false",
+        "four" : "false",
+        "three" : "false",
+        "two" : "false",
+        "one" : "false"
+    }
+  }
+]
